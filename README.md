@@ -24,24 +24,4 @@ Engine: Unity
 
 Programming Language: C#
 
-Genetic Algorithm Approach
 
-The project uses Genetic Algorithms to evolve NPC movement behaviors through successive generations.
-
-The general evolutionary process consists of:
-
-Population Initialization: Create an initial population of NPCs with different behavioral configurations.
-
-Behavior Execution: Allow each NPC to interact with the environment and execute its movement strategy.
-
-Fitness Evaluation: Evaluate each agent's performance according to the project's fitness criteria.
-
-Selection: Select individuals based on their evaluated performance.
-
-Crossover: Combine genetic information from selected individuals to generate new behavioral configurations.
-
-Mutation: Introduce genetic variations to explore alternative movement strategies.
-
-New Generation: Create a new population and repeat the evolutionary process.
-
-Through this iterative process, NPCs can progressively develop movement strategies adapted to the environment and the defined objectives.
