@@ -2,6 +2,9 @@ Moving Senses GA | Evolutionary NPC Movement with Genetic Algorithms
 
 An experimental project exploring Genetic Algorithms for NPC movement and behavioral evolution, developed with Unity and C#
 
+<img width="800" height="422" alt="image" src="https://github.com/user-attachments/assets/c1b9a96b-e038-4f10-9664-6d77850d9280" />
+
+
 About the Project
 
 Moving Senses GA is a Unity project that explores the application of Genetic Algorithms to evolve the movement behavior of Non-Player Characters (NPCs).
