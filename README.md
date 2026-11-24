@@ -12,16 +12,16 @@ Each generation represents a new population of agents whose behaviors are evalua
 
 The project explores how evolutionary computation can be applied to autonomous agents in games, providing an experimental approach to NPC behavior and Artificial Intelligence.
 
-Project Overview
+Project Overview:
 
-Project: Moving Senses GA
+-Project: Moving Senses GA
 
-Main Concept: Evolutionary NPC Behavior
+-Main Concept: Evolutionary NPC Behavior
 
-Artificial Intelligence Technique: Genetic Algorithms
+-Artificial Intelligence Technique: Genetic Algorithms
 
-Engine: Unity
+-Engine: Unity
 
-Programming Language: C#
+-Programming Language: C#
 
 
